@@ -70,7 +70,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/Motari27) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://Motari27)[![bot](https://github.com/youtube.png?size=89)](https://github.com/Motari27)[![Heroku](https://github.com/facebook.png?size=89)](https://Motari27)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/Motari27)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/Motari27)<br/>
+[![github](https://github.com/github.png?size=100)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/Motari27) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://Motari27)[![bot](https://github.com/youtube.png?size=89)](https://github.com/Motari27)[![Heroku](https://github.com/facebook.png?size=89)](https://Motari27)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/Motari27)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ibrahimtech)<br/>
 </div>
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
 
