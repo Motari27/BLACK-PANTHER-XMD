@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMS
-//                                    IBRAHIM TECH BEST TECH EVER
+//                              BLACK GUARD MD ..., MADE BY JABEZ MOTARI
+//                                    JABEZ TECH BEST TECH EVER
 //
 //════════════════════════════//
 
