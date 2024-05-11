@@ -1,7 +1,7 @@
 {
-  "name": "Black Panther MD X5 whatsapp",
+  "name": "Black Guard MD X5 whatsapp",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/BlackPanther-svg/Black-Panther-MD-",
+  "repository": "https://github.com/Motari27/Black-Guard-MD-",
   "logo": "https://telegra.ph/file/3ec4c005518848566d3ee.jpg",
   "keywords": ["nodejs", "bot", "what5sapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
