@@ -1,15 +1,15 @@
 {
-   "name": "black_panther-md 4.1.0",
+   "name": "black_Guard-xmd 4.1.0",
    "version": "1.2.8-beta",
-   "description": "Multi device whatsapp bot by Ibrahim Tech.",
+   "description": "Multi device whatsapp bot by Jabez Techs.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Ibrahim || node lib/smd.js",
+            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Jabez || node lib/smd.js",
             "start": "pm2 start lib/smd.js --attach --name Ibrahim",
-            "stop": "pm2 stop Ibrahim"
+            "stop": "pm2 stop Jabez"
    },
-   "author": "Ibrahim Adams",
+   "author": "Jabez Motari",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -71,8 +71,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Ibrahimaitec/BLACK-PANTHER-MD.git"
+      "url": "git+https://github.com/Motarii27/BLACK-GUARD-MD.git"
    },
-   "bugs": { "url": "https://github.com/Ibrahimaitech/BLACK-PANTHER-MD/issues" },
-   "homepage": "https://github.com/ibrahimaitech/BLACK PANTHER MD#readme"
+   "bugs": { "url": "https://github.com/Motari27/BLACK-GUARD-MD/issues" },
+   "homepage": "https://github.com/Motari27/BLACK-GUARD-MD#readme"
 }
